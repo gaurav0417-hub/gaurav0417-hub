@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kotecha</h1>
-<h3 align="center">Self-motivated engineer with keen interest in coding</h3>
+<h3 align="center">Self-motivated engineer with a keen interest in coding</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **ReactJs**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **NodeJs**
 
-- 🤝 I’m looking for help with **Full stack web Development**
+- 🤝 I’m looking for help with **Full stack Web Development**
 
 - 💬 Ask me about **C++,Python,java,DevOps,DevRel,Testing,Automation**
 
-- 📫 How to reach me **gauravkotecha0417@gmail.com**
+- 📫 You can reach me at **gauravkotecha0417@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD**
+- ⚡ Fun fact, **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
